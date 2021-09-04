@@ -6,3 +6,4 @@ The files have a couple different tasks, they produce the images and save the fi
 The other python file is the script that handles triggering the image creation script followed by posting the images to twitter.
 I will hopefully have this working shortly
 
+Finding a reasonable number to assign the value of total permutations too is difficult, I believe the absolute minimum to be around 80,000,000,000
