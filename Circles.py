@@ -44,7 +44,7 @@ def make_circles(strokeColor):
             #draw circle
             t.up()
             t.home()
-            t.setposition(random.randrange(-200,200,1), random.randrange(-350,200,1))
+            t.setposition(random.randrange(-400,400,1), random.randrange(-700,400,1))
             t.down()
             t.begin_fill()
             t.circle(size)
